@@ -1,13 +1,13 @@
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\UCDefaultServiceRequest.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\view\ServiceNotFoundView.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\registry\ViewRegistry.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\view\ViewNotFoundView.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\servlet\AbstractServiceBrokerServlet.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\UCServiceRequest.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\view\AbstractHtmlView.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\registry\ServiceRegistry.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\view\View.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\AbstractServiceRequest.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\ServiceFactory.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\Service.java
-C:\Dev\KNW_3\framework\src\main\java\webcrm\framework\service\ServiceRequest.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\view\AbstractHtmlView.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\view\ServiceNotFoundView.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\ServiceRequest.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\registry\ViewRegistry.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\UCServiceRequest.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\servlet\AbstractServiceBrokerServlet.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\ServiceFactory.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\view\ViewNotFoundView.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\Service.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\registry\ServiceRegistry.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\AbstractServiceRequest.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\service\UCDefaultServiceRequest.java
+C:\Users\Nicola Hasler\git\webcrm3\framework\src\main\java\webcrm\framework\view\View.java
